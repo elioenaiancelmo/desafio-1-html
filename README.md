@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/mysite.png" width="600" alt="Meu Site HTML">
+<img src="./assets/mysite.PNG" width="600" alt="Meu Site HTML">
 
 > Resultado do Desafio HTML
 
